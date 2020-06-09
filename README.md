@@ -1,6 +1,6 @@
 # Tailwind CSS + Parcel Starter
 
-Creates a starter template to create static website with HTML, CSS and JavaScript.
+Creates a starter template to build static website with HTML, CSS and JavaScript.
 
 It uses the following:
 
@@ -9,14 +9,15 @@ It uses the following:
 - PostHtml (for partial HTML)
 - PurgeCSS
 
-## Usage
-
-Create a new directory and run:
+## Install
 
 ```
 npm install -g tailwind-parcel-starter
 ```
 
+## Usage 
+
+In an empty directory, run:
 ```
 npx tailwind-parcel-starter
 ```

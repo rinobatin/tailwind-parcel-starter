@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-parcel-starter",
+  "version": "1.0.0",
+  "description": "TailwindCSS and Parcel Starter",
+  "bin": "./index.js",
+  "repository": "https://github.com/rinobatin/tailwind-parcel-starter",
+  "scripts": {
+    "deps": "npm install --save-Dev tailwindcss parcel-bundler @fullhuman/postcss-purgecss autoprefixer npm-run-all postcss posthtml-expressions posthtml-include posthtml-load-config rimraf"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "css",
+    "parcel",
+    "starter",
+    "boilerplate"
+  ],
+  "author": "rinobatin"
+}
